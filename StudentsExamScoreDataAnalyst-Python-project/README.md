@@ -52,7 +52,6 @@ Welcome to the **Student Performance Analysis** project! This project focuses on
 
 ---
 
-Feel free to customize the README.md file further with additional details or sections as needed for your project.
 
 If you found this project helpful, please give it a star and follow the repository for more updates!
 
