@@ -1,0 +1,20 @@
+Q 1. Data Cleaning:
+
+    1) Why were the "Status" and "unnamed1" columns dropped from the dataset, and what impact did it have on the analysis?
+    2) Can you explain the rationale behind dropping rows with missing values, and how did it affect the size of the dataset?
+
+Q 2. Exploratory Data Analysis (EDA):
+
+    1) How did you visualize the gender distribution of buyers, and what insights can be derived from the countplot and barplot?
+    2) What patterns or trends are observable in the age group distribution, and how does it differ between genders?
+    3) Can you describe the top states in terms of both the number of orders and total sales amount, and why do you find the results unexpected?
+    4)  What conclusions can be drawn from the analysis of marital status and gender in relation to purchase amounts?
+    5) Which occupations have the highest purchasing power, and how does it align with expectations?
+    6) What are the most popular product categories based on the count of orders and total sales amount, and how does it impact business decisions?
+
+Q 3. Conclusion:
+
+    1) Based on the analysis, can you summarize the profile of the typical buyer during Diwali sales?
+    2) What are the key factors influencing purchase behavior, and how can businesses leverage this information to improve their marketing strategies?
+    3) Are there any specific demographic segments or regions that stand out as potential target markets, and why?
+    In what ways can businesses use these insights to optimize product offerings and increase sales revenue during Diwali festivities?

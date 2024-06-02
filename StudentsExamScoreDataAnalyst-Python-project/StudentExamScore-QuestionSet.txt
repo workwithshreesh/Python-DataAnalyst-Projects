@@ -1,0 +1,28 @@
+Creating a set of questions for your project can help you understand it better and also serve as a guide for others who might want to learn from or replicate your analysis. Here's a set of questions based on your project:
+
+1. **Data Understanding:**
+   - What is the source of the dataset used in this project?
+   - What are the dimensions (rows and columns) of the dataset?
+   - What are the different features included in the dataset, and what do they represent?
+   - Are there any missing values in the dataset, and if so, how are they handled?
+
+2. **Data Cleaning:**
+   - Why was the "Unnamed" column dropped from the dataset?
+   - What modification was made to the "Weekly Study Hours" column, and why was it necessary?
+   
+3. **Exploratory Data Analysis (EDA):**
+   - How is the gender distributed among the students in the dataset?
+   - What insights can be drawn from the relationship between parents' education levels and students' scores?
+   - Is there any observable impact of parents' marital status on students' scores?
+   - What conclusions can be drawn regarding the relationship between students' sports practice and their scores?
+   - How do the distributions of math, reading, and writing scores differ from each other?
+
+4. **Data Visualization:**
+   - How are the ethnic groups distributed among the students in the dataset?
+   - Can you describe the distribution of ethnic groups using a visualization technique?
+   - What insights can be gained from the pie chart representing the distribution of ethnic groups?
+
+5. **Further Analysis:**
+   - Are there any other interesting patterns or relationships in the data that could be explored?
+   - How might additional features or external datasets enhance the analysis?
+   - What potential insights could be valuable for stakeholders (e.g., educators, policymakers) based on this analysis?
